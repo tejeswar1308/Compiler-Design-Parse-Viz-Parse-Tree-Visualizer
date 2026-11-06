@@ -328,7 +328,3 @@ frontend/
 - ε (epsilon) is normalized consistently throughout the codebase
 - Parse tree is derived from actual production sequence during parsing
 - Practice questions are generated using real grammar instances
-
----
-
-*Built with ❤️ for the Compiler Design Hackathon* Team
