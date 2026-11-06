@@ -331,4 +331,4 @@ frontend/
 
 ---
 
-*Built with ❤️ for the Compiler Design Hackathon*
+*Built with ❤️ for the Compiler Design Hackathon* Team
