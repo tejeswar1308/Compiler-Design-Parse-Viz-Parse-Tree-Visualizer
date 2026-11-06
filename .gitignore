@@ -1,0 +1,19 @@
+# Python
+.venv/
+**/.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Node.js
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Environment variables
+.env
+**/.env
+
+# Logs
+*.log
